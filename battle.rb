@@ -22,6 +22,8 @@ class Battle
 
   end
 
+  private
+
   def win
     puts "モンスターをやっつけた！"
   end
